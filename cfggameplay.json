@@ -68,7 +68,6 @@
 			"disableHeightPlacementCheck": true,
 			"disableIsUnderwaterCheck": true,
 			"disableIsInTerrainCheck": true,
-			"disableIsInTerrainCheck": false,
 			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
